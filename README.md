@@ -1,2 +1,2 @@
 # SkillED
-## Base fronend file
+## Basic fronend 
